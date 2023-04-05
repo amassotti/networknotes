@@ -12,7 +12,7 @@
 	<atom:link href="https://amassotti.github.io/networknotes/feed/" rel="self" type="application/rss+xml" />
 	<link>https://amassotti.github.io/networknotes/</link>
 	<description></description>
-	<lastBuildDate>Tue, 28 Mar 2023 15:02:38 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 05 Apr 2023 09:33:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,24 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.2</generator>
 	<item>
+		<title>Test Mars Edit</title>
+		<link>https://amassotti.github.io/networknotes/test-mars-edit/</link>
+					<comments>https://amassotti.github.io/networknotes/test-mars-edit/#respond</comments>
+		
+		<dc:creator><![CDATA[networknotes]]></dc:creator>
+		<pubDate>Wed, 05 Apr 2023 09:33:38 +0000</pubDate>
+				<guid isPermaLink="false">https://amassotti.github.io/networknotes/?p=7</guid>
+
+					<description><![CDATA[Prova Mars Edit]]></description>
+										<content:encoded><![CDATA[<p>Prova Mars Edit</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://amassotti.github.io/networknotes/test-mars-edit/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Hello world!</title>
 		<link>https://amassotti.github.io/networknotes/hello-world/</link>
 					<comments>https://amassotti.github.io/networknotes/hello-world/#comments</comments>
